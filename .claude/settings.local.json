@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/vovykhang/source-code/memex && ls /Users/vovykhang/source-code/)"
+    ]
+  }
+}
